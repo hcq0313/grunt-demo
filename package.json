@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hcq0313/grunt-demo/issues"
   },
-  "homepage": "https://github.com/hcq0313/grunt-demo#readme"
+  "homepage": "https://github.com/hcq0313/grunt-demo#readme",
+  "directories": {
+    "test": "test"
+  }
 }
