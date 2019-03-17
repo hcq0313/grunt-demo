@@ -1,0 +1,29 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "grunt-demo",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-spritesmith": "^6.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcq0313/grunt-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcq0313/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/hcq0313/grunt-demo#readme"
+}
